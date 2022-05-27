@@ -1,5 +1,5 @@
 # Html
 guiaHTML
-repositório para fins de aprendizado sobre HTML
+repositório para fins de aprendizado de HTML
 
 
